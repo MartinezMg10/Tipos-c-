@@ -1,0 +1,15 @@
+/home/miguel/Documentos/Desarollo/C#/Operadores/bin/Debug/net6.0/Operadores
+/home/miguel/Documentos/Desarollo/C#/Operadores/bin/Debug/net6.0/Operadores.deps.json
+/home/miguel/Documentos/Desarollo/C#/Operadores/bin/Debug/net6.0/Operadores.runtimeconfig.json
+/home/miguel/Documentos/Desarollo/C#/Operadores/bin/Debug/net6.0/Operadores.dll
+/home/miguel/Documentos/Desarollo/C#/Operadores/bin/Debug/net6.0/ref/Operadores.dll
+/home/miguel/Documentos/Desarollo/C#/Operadores/bin/Debug/net6.0/Operadores.pdb
+/home/miguel/Documentos/Desarollo/C#/Operadores/obj/Debug/net6.0/Operadores.csproj.AssemblyReference.cache
+/home/miguel/Documentos/Desarollo/C#/Operadores/obj/Debug/net6.0/Operadores.GeneratedMSBuildEditorConfig.editorconfig
+/home/miguel/Documentos/Desarollo/C#/Operadores/obj/Debug/net6.0/Operadores.AssemblyInfoInputs.cache
+/home/miguel/Documentos/Desarollo/C#/Operadores/obj/Debug/net6.0/Operadores.AssemblyInfo.cs
+/home/miguel/Documentos/Desarollo/C#/Operadores/obj/Debug/net6.0/Operadores.csproj.CoreCompileInputs.cache
+/home/miguel/Documentos/Desarollo/C#/Operadores/obj/Debug/net6.0/Operadores.dll
+/home/miguel/Documentos/Desarollo/C#/Operadores/obj/Debug/net6.0/ref/Operadores.dll
+/home/miguel/Documentos/Desarollo/C#/Operadores/obj/Debug/net6.0/Operadores.pdb
+/home/miguel/Documentos/Desarollo/C#/Operadores/obj/Debug/net6.0/Operadores.genruntimeconfig.cache
